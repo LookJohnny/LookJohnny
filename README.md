@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Personal news recommendation system**
 
-- 🤝 I’m looking for help with **SDE Work-Related Information Forum Creation**
+- 🤝 I’m looking for help with **SDE Job-Related Information Forum Creation**
 
 - 📫 How to reach me **johnny.liu0888@gmail.com**
 

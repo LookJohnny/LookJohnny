@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **johnny.liu0888@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</https://www.linkedin.com/in/johnny-liu-47a107220/>
 <p align="left">
 </p>
 

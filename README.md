@@ -15,7 +15,7 @@ Hello, I'm a master's student at University of Southern California, majoring in 
 -->
 
 
-💻 Programming Languages
+##💻 Programming Languages
 <br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -31,7 +31,7 @@ Hello, I'm a master's student at University of Southern California, majoring in 
 
 
 
-🛠️ Development Tools
+##🛠️ Development Tools
 <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -39,7 +39,7 @@ Hello, I'm a master's student at University of Southern California, majoring in 
 
 
 
-🗄️ Databases
+##🗄️ Databases
 <br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -48,7 +48,7 @@ Hello, I'm a master's student at University of Southern California, majoring in 
 
 
 
-📊 Data Science & Machine Learning
+##📊 Data Science & Machine Learning
 <br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -61,7 +61,7 @@ Hello, I'm a master's student at University of Southern California, majoring in 
 
 
 
-🖥️ Frameworks & Libraries
+##🖥️ Frameworks & Libraries
 <br>
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -76,7 +76,7 @@ Hello, I'm a master's student at University of Southern California, majoring in 
 
 
 
-🚀 Big Data & Distributed Computing
+##🚀 Big Data & Distributed Computing
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)

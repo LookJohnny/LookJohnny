@@ -9,10 +9,10 @@
 Hello, I'm a master's student at University of Southern California, majoring in Computer Science.
 - My areas of interest lie in the fields of Recommender System.
 - I'm also learning Back-End in my part-time.
-
+<!--
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=LookJohnny&show_icons=true&hide_border=true" />
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LookJohnny&hide=jinja,html,css,scss,tex&exclude_repo=LookJohnny,LookJohnny.github.io,resume,hugo_personal_website&langs_count=5&layout=compact&hide_border=true" />
-
+-->
 
 
 💻 Programming Languages

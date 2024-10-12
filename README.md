@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johnny Liu</h1>
 <h3 align="center">Master of Computer Science student at USC</h3>
 
-- 🔭 I’m currently working on **Personal news recommendation system**
+- 🔭 I’m currently working on **Personal Shopping Recommendation System**
 
 - 🤝 I’m looking for help with **SDE Job-Related Information Forum Creation**
 

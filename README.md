@@ -10,12 +10,15 @@ Hello, I'm a master's student at University of Southern California, majoring in 
 - My areas of interest lie in the fields of Recommender System.
 - I'm also learning Back-End in my part-time.
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=hesic73&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LookJohnny&hide=jinja,html,css,scss,tex&exclude_repo=LookJohnny,LookJohnny.github.io,resume,hugo_personal_website&langs_count=5&layout=compact&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=LookJohnny&show_icons=true&hide_border=true" />
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LookJohnny&hide=jinja,html,css,scss,tex&exclude_repo=LookJohnny,LookJohnny.github.io,resume,hugo_personal_website&langs_count=5&layout=compact&hide_border=true" />
+username=LookJohnny&hide=jinja,html,css,scss,tex&exclude_repo=LookJohnny,LookJohnny.github.io,resume,hugo_personal_website&langs_count=5&layout=compact&hide_border=true" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
 
 💻 Programming Languages
+<br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -31,6 +34,7 @@ Hello, I'm a master's student at University of Southern California, majoring in 
 
 
 🛠️ Development Tools
+<br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
@@ -38,6 +42,7 @@ Hello, I'm a master's student at University of Southern California, majoring in 
 
 
 🗄️ Databases
+<br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -46,6 +51,7 @@ Hello, I'm a master's student at University of Southern California, majoring in 
 
 
 📊 Data Science & Machine Learning
+<br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -58,6 +64,7 @@ Hello, I'm a master's student at University of Southern California, majoring in 
 
 
 🖥️ Frameworks & Libraries
+<br>
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)

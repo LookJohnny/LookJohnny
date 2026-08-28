@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Johnny%20Liu&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=building%20AI%20that%20has%20a%20body.&descAlignY=58&descSize=20" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8ECAE6&center=true&vCenter=true&width=760&lines=founder+%40+SoulForge+%E2%80%94+souls+for+AI+toys;i+own+the+factory+too.+~100+people%2C+real+cash+flow.;judge+%26+speaker+%40+JD.com+JoyInside;2026+AI+book%3A+%2B468.08%25+at+peak;LA+%E2%86%94+Yiwu.+ship+in+both." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8ECAE6&center=true&vCenter=true&width=760&lines=founder+%40+SoulForge+%E2%80%94+souls+for+AI+toys;i+own+the+factory+too.+~100+people%2C+real+cash+flow.;judge+%26+speaker+%40+JD.com+JoyInside;Jane+Street+Kaggle+silver+%E2%80%94+top+2.5%25+of+3%2C757;2026+AI+book%3A+%2B468.08%25+at+peak;LA+%E2%86%94+Yiwu.+ship+in+both." alt="Typing SVG" /></a>
 
 <br/>
 
@@ -37,9 +37,9 @@ USC MS CS. LA ↔ Yiwu. Full-stack from prompt to PCB.
 
 <div align="center">
 
-| 💰 **+468.08%** | 🏭 **~100** | 🎤 **JD.com** | 🧪 **700+** | 🌍 **14** | 🤖 **17** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| peak 2026 return on my AI book. taste, verified by capital. | people on payroll. I run the floor. | judge + solo keynote, *JoyInside — AI 终端新物种*. Big Tech's entry into AI toys. | real production cases in my cost model. LOO err ≈14%. | languages in prod on lovelyjoy.cn, SEO/GEO tuned. | servos in a silicone face that learns its own expressions. |
+| 🥈 **top 2.5%** | 💰 **+468.08%** | 🏭 **~100** | 🎤 **JD.com** | 🧪 **700+** | 🌍 **14** | 🤖 **17** |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Jane Street Kaggle silver](https://www.kaggle.com/johnnylook). 93rd of 3,757 teams. | peak 2026 return on my AI book. taste, verified by capital. | people on payroll. I run the floor. | judge + solo keynote, *JoyInside — AI 终端新物种*. Big Tech's entry into AI toys. | real production cases in my cost model. LOO err ≈14%. | languages in prod on lovelyjoy.cn, SEO/GEO tuned. | servos in a silicone face that learns its own expressions. |
 
 </div>
 
@@ -79,6 +79,7 @@ USC MS CS. LA ↔ Yiwu. Full-stack from prompt to PCB.
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MuJoCo](https://img.shields.io/badge/MuJoCo-Sim-000000?style=for-the-badge)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-Agentic%20Dev-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Silver%20Medalist·Jane%20Street-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/johnnylook)
 </details>
 
 <details open>
@@ -134,7 +135,7 @@ USC MS CS. LA ↔ Yiwu. Full-stack from prompt to PCB.
 - **0 → 1 is the job.** idea → prototype → firmware → line → first customer. done it more than once.
 - **high agency.** if the API isn't public, I reverse-engineer it. if the part doesn't exist, I print it.
 - **own the whole stack.** prompt → planner → API → 3D → PCB → supply chain. no hand-offs.
-- **skin in the game.** I don't just follow this industry — I underwrite it. +468% is what taste looks like when you bet real money on it.
+- **skin in the game.** I don't just follow this industry — I underwrite it. +468% is what taste looks like when you bet real money on it. Jane Street Kaggle silver, top 2.5% of 3,757 — the model came before the money.
 - **manage like an engineer.** ~100 people, one dashboard. if it isn't instrumented, it didn't happen.
 - **agentic by default.** I write my own Claude Code skills — `wholesale-site-builder` turns mock-ups into a live multilingual B2B site in one run.
 - **bicontinental.** LA ↔ Yiwu. fluent in "let's ship" and "上线".

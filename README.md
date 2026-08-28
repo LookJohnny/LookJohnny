@@ -1,70 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Johnny%20Liu&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%C2%B7%20Physical%20AI%20%C2%B7%20Operator%20%C2%B7%20Investor&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Johnny%20Liu&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=building%20AI%20that%20has%20a%20body.&descAlignY=58&descSize=20" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8ECAE6&center=true&vCenter=true&width=760&lines=I+give+AI+a+body.;Founder+%40+SoulForge+%E2%80%94+AI+toys+with+a+soul;Judge+%26+Speaker+%40+JD.com+JoyInside;Running+a+~100-person+factory+on+LLMs+%2B+CV;AI+portfolio+return+2026%3A+%2B468.08%25;USC+MS+CS+%C2%B7+LA+%E2%86%94+Yiwu" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8ECAE6&center=true&vCenter=true&width=760&lines=founder+%40+SoulForge+%E2%80%94+souls+for+AI+toys;i+own+the+factory+too.+~100+people%2C+real+cash+flow.;judge+%26+speaker+%40+JD.com+JoyInside;2026+AI+book%3A+%2B468.08%25+at+peak;LA+%E2%86%94+Yiwu.+ship+in+both." alt="Typing SVG" /></a>
 
 <br/>
 
 [![Visitors](https://komarev.com/ghpvc/?username=LookJohnny&style=for-the-badge&color=8ECAE6)](https://github.com/LookJohnny)
-[![Website](https://img.shields.io/badge/lovelyjoy.cn-live-DDB892?style=for-the-badge&logo=vercel&logoColor=black)](https://lovelyjoy.cn)
-[![SoulForge](https://img.shields.io/badge/SoulForge-Physical%20AI-2c5364?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LookJohnny/soulForge)
+[![Website](https://img.shields.io/badge/lovelyjoy.cn-in%20prod-DDB892?style=for-the-badge&logo=vercel&logoColor=black)](https://lovelyjoy.cn)
+[![SoulForge](https://img.shields.io/badge/SoulForge-building%20in%20public-2c5364?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LookJohnny/soulForge)
 
 </div>
 
 ---
 
-## 🧠 Who I am
+## tl;dr
 
-**I build companies at the intersection of AI, robotics and manufacturing — and I run the factory that ships them.**
+**founder. operator. investor. still writes the firmware.**
 
-USC M.S. in Computer Science, but my real classroom is the loop between a terminal, a soldering iron and a production line with ~100 people on it. I don't do slide-deck AI: every model I ship has a customer, a servo, or a P&L waiting on the other side.
+Most AI-toy startups have a demo and a deck. I have a factory.
 
-- 🚀 **Founder, [SoulForge](https://github.com/LookJohnny/soulForge)** — the *soul-injection platform* for AI toys: persistent personality, memory and emotion for any body (screen avatar, ESP32 toy, silicone robot face). Zero to working product, hardware included, in under a year.
-- 🏭 **Operator** — I run a ~100-person plush-toy factory (LovelyJoy / 爱儿采) and have digitized it end-to-end: MES + Feishu pipelines, vision-based cost quoting, an AI sales ambassador on a 14-language B2B site. **Real revenue, real cash flow, real unit economics.**
-- 📈 **Investor** — my 2026 AI-sector portfolio (equities + funds) is up **+468.08%** at peak. I invest in what I build and build in what I invest.
-- 🤝 **Collaborator of [Will Cogley](https://github.com/LookJohnny/Coglet)** — working with the internationally-known animatronics / robotics engineer on desktop-companion robotics.
-- 🎤 **Judge & keynote speaker, JD.com *JoyInside — AI 终端新物种* (AI Terminal New Species)** — the flagship event marking China's largest tech company's entry into AI toys. Sat on the judging panel, delivered a solo talk, and gave live product critiques to the competing teams.
+I'm building **[SoulForge](https://github.com/LookJohnny/soulForge)** — the soul layer for physical AI. Drop a `.soul` into anything with a speaker or a servo and it wakes up with a personality, a memory, and a mood that persists. Then I walk downstairs and manufacture it. ~100 people, real revenue, real unit economics, no "we'll figure out supply chain later."
+
+USC MS CS. LA ↔ Yiwu. Full-stack from prompt to PCB.
 
 ```text
- LLM ──▶ Planner (3-tier + event replanning) ──▶ PAD emotion ──▶ Body
+ LLM ──▶ planner (3-tier, event-driven replan) ──▶ PAD emotion ──▶ body
                                                                   ├── three.js / VRM avatar    (web · Tauri)
-                                                                  ├── ESP32 voice toy  (小智)   (WebSocket · TTS/ASR)
-                                                                  └── MG90S×17 silicone face   (PCA9685 · ESP8266)
+                                                                  ├── ESP32 voice toy          (WebSocket · TTS/ASR)
+                                                                  └── 17-servo silicone face   (PCA9685 · ESP8266)
 ```
 
 ---
 
-## 📊 Traction — numbers, not adjectives
+## receipts
 
 <div align="center">
 
 | 💰 **+468.08%** | 🏭 **~100** | 🎤 **JD.com** | 🧪 **700+** | 🌍 **14** | 🤖 **17** |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| peak 2026 return, AI equities & funds | people I manage on the factory floor | judge & speaker, JoyInside AI 终端新物种 | real production cases training the cost model (LOO err ≈14%) | languages on lovelyjoy.cn, SEO/GEO tuned | servos driving a silicone face that learns its own expressions |
+| peak 2026 return on my AI book (equities + funds). skin in the game. | people on payroll. I run the floor. | judge + solo keynote, *JoyInside — AI 终端新物种*. Big Tech's entry into AI toys. | real production cases in my cost model. LOO err ≈14%. | languages in prod on lovelyjoy.cn, SEO/GEO tuned. | servos in a silicone face that learns its own expressions. |
 
 </div>
 
+- 🤝 **collab w/ [Will Cogley](https://github.com/LookJohnny/Coglet)** — yes, *that* animatronics guy. desktop-companion robotics.
+- 🎤 **JD.com JoyInside** — judged the field, gave the keynote, roasted the demos live (kindly).
+- 🏭 **factory → software company.** MES + Feishu pipelines, vision-based quoting, an AI sales rep on the site. everything instrumented. one source of truth.
+- 💸 **default alive.** cash-flow positive ops fund the R&D. no burn-rate anxiety, just shipping.
+
 ---
 
-## 🚀 Ventures & projects
+## shipping
 
-| Project | What it is | Stack |
+| | what | stack |
 |---|---|---|
-| **[SoulForge](https://github.com/LookJohnny/soulForge)** | AI-toy soul engine: `.soul` personality packs, multi-agent conversations (turn-taking, memory, relationships), latency observability, Unity/MuJoCo sims, ESP32 firmware. Pitched to investors; founder invited as judge & speaker at JD.com JoyInside AI 终端新物种. | Python 3.12 · FastAPI · WebSocket · Prisma · pnpm/turbo · Docker |
-| **[Soul_Forge Physical](https://github.com/LookJohnny/Soul_Forge)** | Physical AI: a robot face with **self-supervised expression learning** (Columbia Eva-paper reproduction — real silicone deformation, no screens). | ESP8266/ESP32 · PCA9685 · PyTorch · MuJoCo |
-| **[Coglet](https://github.com/LookJohnny/Coglet)** | Desktop companion robot, built with Will Cogley. | Robotics · 3D printing · embedded |
-| **[lovelyjoy.cn](https://github.com/LookJohnny/lovelyjoy-website)** | 14-language B2B factory site with a talking 3D VRM brand ambassador (plan-then-infill gesture animation, LLM + Edge TTS, Feishu CRM leads). | Next.js 16 · React 19 · three-vrm · Tailwind v4 · Vercel |
-| **[plush-cost](https://github.com/LookJohnny/plush-cost)** | Vision-based manufacturing cost estimator: photo → materials/labor → quote in seconds instead of days. | Python · CV · scikit-learn · Docker |
-| **Blacklake MES × Feishu** | Reverse-engineered MES internal APIs; 6 sync pipelines, webhooks, auto-reports running a live factory. | Python · REST · cron · Feishu Bitable |
-| **[OTTO RecSys](https://github.com/LookJohnny/OTTO-Multi-Objective-Recommendation-System)** | Multi-objective session recommendation (clicks / carts / orders). | PyTorch · Pandas · Kaggle |
+| **[SoulForge](https://github.com/LookJohnny/soulForge)** | soul engine for AI toys. `.soul` packs, multi-agent convos (turn-taking, memory, relationships), latency observability, Unity/MuJoCo sims, ESP32 firmware. raised interest, went on stage. | py3.12 · FastAPI · WS · Prisma · turbo · Docker |
+| **[Soul_Forge Physical](https://github.com/LookJohnny/Soul_Forge)** | robot face that teaches itself to emote. Columbia *Eva* paper, reproduced in real silicone. no screens, no cheating. | ESP8266/32 · PCA9685 · PyTorch · MuJoCo |
+| **[Coglet](https://github.com/LookJohnny/Coglet)** | desktop companion robot w/ Will Cogley. | robotics · 3D print · embedded |
+| **[lovelyjoy.cn](https://github.com/LookJohnny/lovelyjoy-website)** | 14-lang B2B site w/ a 3D VRM ambassador that actually talks. plan-then-infill gestures, LLM + Edge TTS, leads → Feishu. | Next 16 · React 19 · three-vrm · Tailwind 4 · Vercel |
+| **[plush-cost](https://github.com/LookJohnny/plush-cost)** | photo in → quote out. seconds, not days. | py · CV · sklearn · Docker |
+| **MES × Feishu** | reverse-engineered the MES internals. 6 sync pipelines, webhooks, auto-reports, running a live factory. | py · REST · cron · Bitable |
+| **[OTTO RecSys](https://github.com/LookJohnny/OTTO-Multi-Objective-Recommendation-System)** | multi-objective session recs (clicks / carts / orders). | PyTorch · Pandas · Kaggle |
 
 ---
 
-## 🛠 Tech stack
+## stack
 
 <details open>
-<summary><b>🤖 AI / Agents</b></summary>
+<summary><b>🤖 ai / agents</b></summary>
 <br>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -79,7 +82,7 @@ USC M.S. in Computer Science, but my real classroom is the loop between a termin
 </details>
 
 <details open>
-<summary><b>🦾 Hardware / Embodied</b></summary>
+<summary><b>🦾 hardware / embodied</b></summary>
 <br>
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
@@ -92,7 +95,7 @@ USC M.S. in Computer Science, but my real classroom is the loop between a termin
 </details>
 
 <details open>
-<summary><b>🌐 Full-stack</b></summary>
+<summary><b>🌐 full-stack</b></summary>
 <br>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -109,7 +112,7 @@ USC M.S. in Computer Science, but my real classroom is the loop between a termin
 </details>
 
 <details open>
-<summary><b>☁️ Infra / Data / Business</b></summary>
+<summary><b>☁️ infra / data / ops</b></summary>
 <br>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL·Neon-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -121,29 +124,32 @@ USC M.S. in Computer Science, but my real classroom is the loop between a termin
 ![Spark](https://img.shields.io/badge/Spark·Kafka·Hadoop-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![MES](https://img.shields.io/badge/MES·Feishu·ERP-Factory%20Ops-3370FF?style=for-the-badge)
 ![SEO/GEO](https://img.shields.io/badge/SEO·GEO·i18n-14%20locales-DDB892?style=for-the-badge)
-![Fundraising](https://img.shields.io/badge/Pitch%20Decks·Fundraising·P%26L-Founder%20Ops-8ECAE6?style=for-the-badge)
+![Fundraising](https://img.shields.io/badge/Decks·Fundraising·P%26L-Founder%20Ops-8ECAE6?style=for-the-badge)
 </details>
 
 ---
 
-## 🧭 Operating principles
+## how i operate
 
-- **0 → 1 is my default mode.** Idea → prototype → firmware → factory line → first customer. I've done the whole arc, more than once.
-- **Own the whole stack.** Prompt → planner → API → 3D render → PCB wiring → supply chain. No hand-offs, no excuses.
-- **Skin in the game.** I invest in the AI sector I build in; the +468.08% is conviction, not luck.
-- **Manage like an engineer.** ~100 people, one source of truth: every workflow on the floor is instrumented, synced and reported automatically.
-- **Agentic development.** I write my own Claude Code skills (e.g. `wholesale-site-builder`: mock-ups → multilingual B2B site → SEO/GEO → Vercel in one run).
-- **Bilingual, bicontinental.** Los Angeles ↔ Yiwu. Fluent in both "let's ship" and "让我们上线".
+- **0 → 1 is the job.** idea → prototype → firmware → line → first customer. done it more than once.
+- **high agency.** if the API isn't public, I reverse-engineer it. if the part doesn't exist, I print it.
+- **own the whole stack.** prompt → planner → API → 3D → PCB → supply chain. no hand-offs.
+- **skin in the game.** I invest where I build. the +468% is conviction with a P&L attached.
+- **manage like an engineer.** 100 people, one dashboard. if it isn't instrumented, it isn't real.
+- **agentic by default.** I write my own Claude Code skills — `wholesale-site-builder` turns mock-ups into a live multilingual B2B site in one run.
+- **bicontinental.** LA ↔ Yiwu. fluent in "let's ship" and "上线".
 
 ---
 
 <div align="center">
 
-### Building AI × robotics × manufacturing? Investing in it? Let's talk.
+### building or backing AI × robotics × manufacturing? my DMs are open.
 
 [![Email](https://img.shields.io/badge/Email-ly2217839211%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ly2217839211@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Johnny%20Liu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
 [![lovelyjoy.cn](https://img.shields.io/badge/Factory-lovelyjoy.cn-DDB892?style=for-the-badge&logo=googlechrome&logoColor=black)](https://lovelyjoy.cn)
+
+<sub>most people pick software or hardware or business. I picked all three and bought the factory.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 

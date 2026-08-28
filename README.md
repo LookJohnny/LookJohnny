@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Johnny%20Liu&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%C2%B7%20Physical%20AI%20%C2%B7%20Operator%20%C2%B7%20Investor&descAlignY=58&descSize=20" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8ECAE6&center=true&vCenter=true&width=760&lines=I+give+AI+a+body.;Founder+%40+SoulForge+%E2%80%94+AI+toys+with+a+soul;Running+a+~100-person+factory+on+LLMs+%2B+CV;AI+portfolio+return+2026%3A+%2B468.08%25;USC+MS+CS+%C2%B7+LA+%E2%86%94+Yiwu" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8ECAE6&center=true&vCenter=true&width=760&lines=I+give+AI+a+body.;Founder+%40+SoulForge+%E2%80%94+AI+toys+with+a+soul;Judge+%26+Speaker+%40+JD.com+JoyInside;Running+a+~100-person+factory+on+LLMs+%2B+CV;AI+portfolio+return+2026%3A+%2B468.08%25;USC+MS+CS+%C2%B7+LA+%E2%86%94+Yiwu" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -24,7 +24,7 @@ USC M.S. in Computer Science, but my real classroom is the loop between a termin
 - 🏭 **Operator** — I run a ~100-person plush-toy factory (LovelyJoy / 爱儿采) and have digitized it end-to-end: MES + Feishu pipelines, vision-based cost quoting, an AI sales ambassador on a 14-language B2B site. **Real revenue, real cash flow, real unit economics.**
 - 📈 **Investor** — my 2026 AI-sector portfolio (equities + funds) is up **+468.08%** at peak. I invest in what I build and build in what I invest.
 - 🤝 **Collaborator of [Will Cogley](https://github.com/LookJohnny/Coglet)** — working with the internationally-known animatronics / robotics engineer on desktop-companion robotics.
-- 🎤 **Invited by JD.com** to its AI Toy Conference — the largest Chinese tech company's entry event into AI toys.
+- 🎤 **Judge & keynote speaker, JD.com *JoyInside — AI 终端新物种* (AI Terminal New Species)** — the flagship event marking China's largest tech company's entry into AI toys. Sat on the judging panel, delivered a solo talk, and gave live product critiques to the competing teams.
 
 ```text
  LLM ──▶ Planner (3-tier + event replanning) ──▶ PAD emotion ──▶ Body
@@ -39,9 +39,9 @@ USC M.S. in Computer Science, but my real classroom is the loop between a termin
 
 <div align="center">
 
-| 💰 **+468.08%** | 🏭 **~100** | 🧪 **700+** | 🌍 **14** | 🤖 **17** |
-|:---:|:---:|:---:|:---:|:---:|
-| peak 2026 return, AI equities & funds | people I manage on the factory floor | real production cases training the cost model (LOO err ≈14%) | languages on lovelyjoy.cn, SEO/GEO tuned | servos driving a silicone face that learns its own expressions |
+| 💰 **+468.08%** | 🏭 **~100** | 🎤 **JD.com** | 🧪 **700+** | 🌍 **14** | 🤖 **17** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| peak 2026 return, AI equities & funds | people I manage on the factory floor | judge & speaker, JoyInside AI 终端新物种 | real production cases training the cost model (LOO err ≈14%) | languages on lovelyjoy.cn, SEO/GEO tuned | servos driving a silicone face that learns its own expressions |
 
 </div>
 
@@ -51,7 +51,7 @@ USC M.S. in Computer Science, but my real classroom is the loop between a termin
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[SoulForge](https://github.com/LookJohnny/soulForge)** | AI-toy soul engine: `.soul` personality packs, multi-agent conversations (turn-taking, memory, relationships), latency observability, Unity/MuJoCo sims, ESP32 firmware. Pitched to investors; JD.com AI Toy Conference invitee. | Python 3.12 · FastAPI · WebSocket · Prisma · pnpm/turbo · Docker |
+| **[SoulForge](https://github.com/LookJohnny/soulForge)** | AI-toy soul engine: `.soul` personality packs, multi-agent conversations (turn-taking, memory, relationships), latency observability, Unity/MuJoCo sims, ESP32 firmware. Pitched to investors; founder invited as judge & speaker at JD.com JoyInside AI 终端新物种. | Python 3.12 · FastAPI · WebSocket · Prisma · pnpm/turbo · Docker |
 | **[Soul_Forge Physical](https://github.com/LookJohnny/Soul_Forge)** | Physical AI: a robot face with **self-supervised expression learning** (Columbia Eva-paper reproduction — real silicone deformation, no screens). | ESP8266/ESP32 · PCA9685 · PyTorch · MuJoCo |
 | **[Coglet](https://github.com/LookJohnny/Coglet)** | Desktop companion robot, built with Will Cogley. | Robotics · 3D printing · embedded |
 | **[lovelyjoy.cn](https://github.com/LookJohnny/lovelyjoy-website)** | 14-language B2B factory site with a talking 3D VRM brand ambassador (plan-then-infill gesture animation, LLM + Edge TTS, Feishu CRM leads). | Next.js 16 · React 19 · three-vrm · Tailwind v4 · Vercel |
